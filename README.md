@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaHegde2001
-- 👀 I’m interested in ...machine learning, web development , data science and app development projects 
+- 👀 I’m interested in ...machine learning, web development , data science and app development 
 - 🌱 I’m currently learning ...web development 
 - 💞️ I’m looking to collaborate on ...web development and data science 
 - 📫 How to reach me ...mail me on adityahegde63@gmail.com or r19cs014@cit.reva.edu.in
